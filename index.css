@@ -1,0 +1,12 @@
+body{
+  background-color: rgb(2, 24, 43);
+  box-sizing: border-box;
+  color: #7dc410;
+  text-align: center;
+  font-size: large;
+  font-family: fantasy;
+}
+h1, h2{
+  color: #f7325e;
+  text-align: center;
+}
