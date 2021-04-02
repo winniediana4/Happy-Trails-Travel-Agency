@@ -10,3 +10,30 @@ h1, h2{
   color: #f7325e;
   text-align: center;
 }
+#row{
+  display: flex;
+  flex-direction: column; 
+  position: absolute;
+  width: 96%;
+  height: 1790px;
+  padding: 2px;
+  margin-left: 2%;
+  margin-right: 2%;
+ 
+ }
+ .column{
+   float: left;
+   width: 50%;
+   padding: 0px;
+ }
+ img{
+   height: 400px;
+   width: 750px;
+ }
+ a{
+   color: blanchedalmond;
+   font-family: Arial, Helvetica, sans-serif;
+ }
+ .popular{
+   background-color: rgb(1, 41, 116);
+ }
